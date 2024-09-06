@@ -38,4 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="35" alt="rails logo"  />
 </div>
 <br>
-
