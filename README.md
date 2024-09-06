@@ -15,7 +15,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=hamzagedikkaya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzagedikkaya&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzagedikkaya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzagedikkaya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 ## 💻 Tech:
 <div align="left">
@@ -38,3 +39,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="35" alt="rails logo"  />
 </div>
 <br>
+
+<img src="https://raw.githubusercontent.com/hamzagedikkaya/hamzagedikkaya/output/snake.svg" alt="Snake animation" />
