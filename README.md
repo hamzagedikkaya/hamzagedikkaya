@@ -4,7 +4,7 @@
   <a href="https://visitcount.itsvg.in" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=hamzagedikkaya&icon=0&color=0" alt="visit count" style="height: 25px; width: auto; margin-right: 10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/hamza-gedikkaya" target="_blank">
+  <a href="https://www.linkedin.com/in/hamza-gedikkaya-9a1823271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px; width: auto; margin-right: 10px;" />
   </a>
   <a href="mailto:gedikkayahamza@gmail.com">
