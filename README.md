@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamza and I'm a full-stack developer, from Turkey</h2>
+<h2 align="left">Hi👋, I’m Hamza. I’m a full-stack developer who enjoys having fun with technology and coming up with practical solutions.</h2>
 
 <div style="display: flex; align-items: center;">
   <a href="https://visitcount.itsvg.in" target="_blank">
