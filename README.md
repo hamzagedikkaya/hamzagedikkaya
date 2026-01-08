@@ -6,7 +6,6 @@ Full-stack developer passionate about Ruby on Rails and building practical solut
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC342D?style=flat&logo=ruby&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
