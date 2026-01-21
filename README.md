@@ -1,4 +1,4 @@
-# Hello, I'm Hamza
+# Hello, I'm Hamza.
 
 Full-stack developer passionate about Ruby on Rails and building practical solutions.
 
