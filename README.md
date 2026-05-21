@@ -1,21 +1,29 @@
-# Hello, I'm Hamza
+### Hi, I'm Hamza
 
-Full-stack developer passionate about Ruby on Rails and building practical solutions.
+Ruby on Rails developer. I build things that solve problems I actually have — from static analysis tools that catch bugs before they ship, to self-hosted apps that pull my data back from a dozen subscriptions.
 
-## Tech Stack
+#### Currently
+- Building **Meridian**, a local-first personal life OS in Rails
+- Maintaining **Eager Eye**, static N+1 detection for Rails apps
+- Notes on Rails, performance, and my projects at [hamzagedikkaya.github.io](https://hamzagedikkaya.github.io)
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC342D?style=flat&logo=ruby&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+#### Stack
+Ruby on Rails · PostgreSQL · Sidekiq · Hotwire · Tailwind · RSpec  
+Particular interest in static analysis, AST tooling, and Rails internals.
 
-## Featured Projects
+#### Featured Projects
 
-**[Eager Eye](https://github.com/hamzagedikkaya/eager_eye)** - Detects N+1 query problems using AST analysis without running code  
-**[Eager Eye VSCode](https://github.com/hamzagedikkaya/eager_eye_vscode)** - VSCode extension companion for Eager Eye  
-**[Blog & Docs](https://hamzagedikkaya.github.io)** - Technical writing and documentation
+**[Meridian](https://github.com/hamzagedikkaya/meridian)**  
+A self-hosted personal life OS. One Rails app replaces half a dozen subscriptions — finance, habits, todos, calendar, journal, goals — all on hardware you control. Backups are a single `tar.gz`, so your data is genuinely yours. Built with Rails 8, Hotwire, and Tailwind v4.
 
-## Connect
+**[Eager Eye](https://github.com/hamzagedikkaya/eager_eye)**  
+Detects N+1 query problems through static AST analysis. Unlike Bullet or rack-mini-profiler, it doesn't need to run your code or hit a database — it reasons about query patterns directly from the source. Catches issues in CI before they reach production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-gedikkaya-9a1823271)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gedikkayahamza@gmail.com)
+**[Eager Eye VSCode](https://github.com/hamzagedikkaya/eager_eye_vscode)**  
+The companion editor extension. Surfaces potential N+1 patterns inline as you write Rails code.
+
+**[Blog & Docs](https://hamzagedikkaya.github.io)**  
+Notes on Rails, performance, and documentation for my projects.
+
+#### Reach me
+[LinkedIn](https://www.linkedin.com/in/hamza-gedikkaya-9a1823271) · [gedikkayahamza@gmail.com](mailto:gedikkayahamza@gmail.com)
