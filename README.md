@@ -1,29 +1,25 @@
 ### Hi, I'm Hamza
 
-Ruby on Rails developer. I build things that solve problems I actually have — from static analysis tools that catch bugs before they ship, to self-hosted apps that pull my data back from a dozen subscriptions.
+Ruby on Rails developer. I build things to solve problems I actually have — a self-hosted life OS that pulls my data back from a dozen subscriptions, and a static analyzer that catches N+1 queries before the code ever runs.
 
-#### Currently
-- Building **Meridian**, a local-first personal life OS in Rails
-- Maintaining **Eager Eye**, static N+1 detection for Rails apps
-- Notes on Rails, performance, and my projects at [hamzagedikkaya.github.io](https://hamzagedikkaya.github.io)
+<sub>Rails · PostgreSQL · Hotwire · Tailwind · RSpec · Flutter</sub>
 
-#### Stack
-Ruby on Rails · PostgreSQL · Sidekiq · Hotwire · Tailwind · RSpec  
-Particular interest in static analysis, AST tooling, and Rails internals.
+#### Building
 
-#### Featured Projects
+| Project | What it is |
+|:--|:--|
+| [**Meridian**](https://github.com/hamzagedikkaya/meridian)<br>![Rails 8](https://img.shields.io/badge/Rails-8-CC0000?logo=rubyonrails&logoColor=white) | Self-hosted, local-first personal life OS. Finance, habits, todos, calendar, journal and goals in one app, on hardware you control — backups are a single `tar.gz`. |
+| [**Meridian Mobile**](https://github.com/hamzagedikkaya/meridian-mobile)<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | The Android client. Talks to your own Meridian server over local Wi-Fi — no cloud, no account, Turkish and English out of the box. |
 
-**[Meridian](https://github.com/hamzagedikkaya/meridian)**  
-A self-hosted personal life OS. One Rails app replaces half a dozen subscriptions — finance, habits, todos, calendar, journal, goals — all on hardware you control. Backups are a single `tar.gz`, so your data is genuinely yours. Built with Rails 8, Hotwire, and Tailwind v4.
+#### Open source
 
-**[Eager Eye](https://github.com/hamzagedikkaya/eager_eye)**  
-Detects N+1 query problems through static AST analysis. Unlike Bullet or rack-mini-profiler, it doesn't need to run your code or hit a database — it reasons about query patterns directly from the source. Catches issues in CI before they reach production.
+| Tool | What it does |
+|:--|:--|
+| [**Eager Eye**](https://github.com/hamzagedikkaya/eager_eye)<br>[![Gem](https://img.shields.io/gem/v/eager_eye?color=red&label=gem)](https://rubygems.org/gems/eager_eye) | Finds N+1 queries in Rails apps by reading the Ruby AST — no database, no running code. Eleven detectors, one command in CI. |
+| [**Eager Eye for VS Code**](https://github.com/hamzagedikkaya/eager_eye_vscode)<br>[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=hamzagedikkaya.eager-eye) | The same engine in the editor: runs on save, underlines the offending line, offers quick fixes. |
 
-**[Eager Eye VSCode](https://github.com/hamzagedikkaya/eager_eye_vscode)**  
-The companion editor extension. Surfaces potential N+1 patterns inline as you write Rails code.
+---
 
-**[Blog & Docs](https://hamzagedikkaya.github.io)**  
-Notes on Rails, performance, and documentation for my projects.
+Writing about Rails, performance and these projects at [hamzagedikkaya.github.io](https://hamzagedikkaya.github.io).
 
-#### Reach me
 [LinkedIn](https://www.linkedin.com/in/hamza-gedikkaya-9a1823271) · [gedikkayahamza@gmail.com](mailto:gedikkayahamza@gmail.com)
