@@ -2,7 +2,7 @@
 
 Ruby on Rails developer. I build things to solve problems I actually have — a self-hosted life OS that pulls my data back from a dozen subscriptions, and a static analyzer that catches N+1 queries before the code ever runs.
 
-<sub>Rails · PostgreSQL · Hotwire · Tailwind · RSpec · Flutter</sub>
+<sub>Rails · PostgreSQL · Hotwire · Tailwind · RSpec</sub>
 
 #### Building
 
