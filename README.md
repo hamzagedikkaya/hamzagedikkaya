@@ -4,22 +4,16 @@ Ruby on Rails developer. I build things to solve problems I actually have — a 
 
 <sub>Rails · PostgreSQL · Hotwire · Tailwind · RSpec</sub>
 
-#### Building
+**[Meridian](https://github.com/hamzagedikkaya/meridian)**<br>
+A self-hosted, local-first personal life OS. Finance, habits, todos, calendar, journal and goals in one Rails 8 app, on hardware you control — backups are a single `tar.gz`. The [Android client](https://github.com/hamzagedikkaya/meridian-mobile) talks to your own server over local Wi-Fi: no cloud, no account, Turkish and English out of the box.
 
-| Project | What it is |
-|:--|:--|
-| [**Meridian**](https://github.com/hamzagedikkaya/meridian)<br>![Rails 8](https://img.shields.io/badge/Rails-8-CC0000?logo=rubyonrails&logoColor=white) | Self-hosted, local-first personal life OS. Finance, habits, todos, calendar, journal and goals in one app, on hardware you control — backups are a single `tar.gz`. |
-| [**Meridian Mobile**](https://github.com/hamzagedikkaya/meridian-mobile)<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | The Android client. Talks to your own Meridian server over local Wi-Fi — no cloud, no account, Turkish and English out of the box. |
+**[EagerEye](https://github.com/hamzagedikkaya/eager_eye)**<br>
+Finds N+1 queries in Rails apps by reading the Ruby AST — no database, no running code. Eleven detectors, one command in CI. Available on [RubyGems](https://rubygems.org/gems/eager_eye), with a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hamzagedikkaya.eager-eye) that runs the same engine on save, underlines the offending line and offers quick fixes.
 
-#### Open source
+I write long-form posts about Rails, performance and these projects on my blog, [The Rabbit Hole](https://hamzagedikkaya.github.io):
 
-| Tool | What it does |
-|:--|:--|
-| [**Eager Eye**](https://github.com/hamzagedikkaya/eager_eye)<br>[![Gem](https://img.shields.io/gem/v/eager_eye?color=red&label=gem)](https://rubygems.org/gems/eager_eye) | Finds N+1 queries in Rails apps by reading the Ruby AST — no database, no running code. Eleven detectors, one command in CI. |
-| [**Eager Eye for VS Code**](https://github.com/hamzagedikkaya/eager_eye_vscode)<br>[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=hamzagedikkaya.eager-eye) | The same engine in the editor: runs on save, underlines the offending line, offers quick fixes. |
+- [Meridian: A Local-First Life OS, One Rails App Instead of Six Subscriptions](https://hamzagedikkaya.github.io/rails%20projects/self-hosted/2026/05/23/meridian.html)
+- [EagerEye: Catching the N+1s Bullet Misses — with Static Analysis](https://hamzagedikkaya.github.io/rails%20performance/static%20analysis/tools/2026/05/03/eager_eye_static_analysis.html)
+- [Beyond N+1: Hidden Performance Traps and Fixes](https://hamzagedikkaya.github.io/rails%20performance/database%20optimization/2025/12/06/beyond_n+1.html)
 
----
-
-Writing about Rails, performance and these projects at [hamzagedikkaya.github.io](https://hamzagedikkaya.github.io).
-
-[LinkedIn](https://www.linkedin.com/in/hamza-gedikkaya-9a1823271) · [gedikkayahamza@gmail.com](mailto:gedikkayahamza@gmail.com)
+Reach me on [LinkedIn](https://www.linkedin.com/in/hamza-gedikkaya-9a1823271) or at [gedikkayahamza@gmail.com](mailto:gedikkayahamza@gmail.com).
