@@ -16,4 +16,4 @@ I write long-form posts about Rails, performance and these projects on my blog, 
 - [EagerEye: Catching the N+1s Bullet Misses — with Static Analysis](https://hamzagedikkaya.github.io/rails%20performance/static%20analysis/tools/2026/05/03/eager_eye_static_analysis.html)
 - [Beyond N+1: Hidden Performance Traps and Fixes](https://hamzagedikkaya.github.io/rails%20performance/database%20optimization/2025/12/06/beyond_n+1.html)
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/hamza-gedikkaya-9a1823271) or at [gedikkayahamza@gmail.com](mailto:gedikkayahamza@gmail.com).
+Reach me on [LinkedIn](https://www.linkedin.com/in/hamza-gedikkaya-9a1823271) or at [gedikkayahamza@gmail.com](mailto:gedikkayahamza@gmail.com)
